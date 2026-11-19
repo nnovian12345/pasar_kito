@@ -1,0 +1,16 @@
+
+# Konfigurasi database lokal
+config.php
+.env
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# File sementara
+*.log
+*.tmp
+
+# Folder cache
+cache/
+tmp/
